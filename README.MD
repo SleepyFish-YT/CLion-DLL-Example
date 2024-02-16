@@ -13,5 +13,6 @@ Use it for litterly anything but give credits.
   target_link_libraries(NewAbyss PRIVATE winmm)
 ```
 
+## If you're not using Visual Studio Toolchain read this
 - You can not use std::cout << "Random text \n"; (I dont know why but u cant) instead use printf("Random text \n")
 - Dont use std::string random; (I also dont know why but u also cant) and instead use char* random;
