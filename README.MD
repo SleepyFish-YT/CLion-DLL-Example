@@ -8,7 +8,7 @@ Use it for litterly anything but give credits.
 
 ## Additional Informations
 - Change the toolchain to Visual Studio to work. If your not dooing so you are unable to use any std:: functions.
-- If you want to use stuff like PlaySoundA then add this to your CMakeLists:
+- If you want to use stuff like PlaySoundA then add this to your CMakeLists: (I already added this on default)
 ```c++
   target_link_libraries(NewAbyss PRIVATE winmm)
 ```
