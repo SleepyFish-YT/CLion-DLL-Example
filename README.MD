@@ -8,3 +8,4 @@ Use it for litterly anything but give credits.
 
 ## Additional Informations
 - You can not use std::cout << "Random text \n"; (I dont know why but u cant) instead use printf("Random text \n")
+- Dont use std::string random; (I also dont know why but u also cant) and instead use char* random;
