@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_library(Example SHARED Inject.cpp
         me.sleepy.example/Example.cpp
-        me.sleepy.example/Examples.h
+        me.sleepy.example/Example.h
 )
