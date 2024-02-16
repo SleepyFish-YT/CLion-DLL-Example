@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.27)
 # Declare project
 project(Example)
 
-# Set your version here 
+# Set your c++ version here 
 set(CMAKE_CXX_STANDARD 20)
 
 # This will be containing all of your source files
