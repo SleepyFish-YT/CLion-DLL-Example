@@ -7,5 +7,11 @@ Use it for litterly anything but give credits.
 - Legit JNI clients for any types of games
 
 ## Additional Informations
+- Change the toolchain to Visual Studio to work. If your not dooing so you are unable to use any std:: functions.
+- If you want to use stuff like PlaySoundA then add this to your CMakeLists:
+```c++
+  target_link_libraries(NewAbyss PRIVATE winmm)
+```
+
 - You can not use std::cout << "Random text \n"; (I dont know why but u cant) instead use printf("Random text \n")
 - Dont use std::string random; (I also dont know why but u also cant) and instead use char* random;
