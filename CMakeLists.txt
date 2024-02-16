@@ -7,7 +7,7 @@ project(Example)
 # Set your c++ version here 
 set(CMAKE_CXX_STANDARD 20)
 
-# This will be containing all of your source files
+# This will be containing all of your files
 add_library(Example SHARED Inject.cpp
         me.sleepy.example/Example.cpp
         me.sleepy.example/Example.h
