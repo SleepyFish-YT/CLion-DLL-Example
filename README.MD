@@ -20,7 +20,7 @@ Use it for litterly anything but give credits.
 
 ### Why CLion and not Visual Studio ?
 - CLion is for rich kids
-- Clion looks better
+- CLion looks better
 - CLion has refactors that actually work
 - CLion has better functionalities
 - CLion has a better Package manager
