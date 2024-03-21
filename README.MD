@@ -3,7 +3,8 @@
 This is a free to use CLion DLL Example.
 Use it for litterly anything but give credits.
 
-## Setting up #### Use Visual Studio Toolchain
+## Setting up
+#### Use Visual Studio Toolchain
 ![settingUp](https://i.ibb.co/X3qkWjf/Screenshot-2024-03-21-163141.png)
 
 ## Useage examples
