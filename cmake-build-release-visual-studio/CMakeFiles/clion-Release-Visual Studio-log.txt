@@ -1,0 +1,4 @@
+"B:\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=B:/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Luca\Desktop\CLion-DLL-Example-main -B C:\Users\Luca\Desktop\CLion-DLL-Example-main\cmake-build-release-visual-studio
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Luca/Desktop/CLion-DLL-Example-main/cmake-build-release-visual-studio
