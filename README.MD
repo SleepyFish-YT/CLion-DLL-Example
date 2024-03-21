@@ -5,7 +5,7 @@ Use it for litterly anything but give credits.
 
 ## Setting up
 #### Use Visual Studio Toolchain
-![settingUp](https://i.ibb.co/X3qkWjf/Screenshot-2024-03-21-163141.png)
+![settingUp](https://i.imgur.com/3QTid34.png)
 
 ## Useage examples
 - Legit JNI clients for any types of games
