@@ -18,5 +18,5 @@ Use it for litterly anything but give credits.
 ```
 
 ## If you're not using Visual Studio Toolchain read this
-- You can not use std::cout << "Random text \n"; (I don't know why but u cant) instead use printf("Random text \n")
-- Don't use std::string random; (I also don't know why but u also cant) and instead use char* random;
+- You can not use ```std::cout << "Random text \n";``` instead use ```printf("Random text \n");```
+- Don't use ```std::string random;``` and instead use ```char* random;```
