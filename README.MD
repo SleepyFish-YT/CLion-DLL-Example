@@ -13,7 +13,7 @@ Use it for litterly anything but give credits.
 ## Additional Information
 - Change the toolchain to Visual Studio to work. If your not doing so you are unable to use any std:: functions.
 - If you want to use stuff like PlaySoundA then add this to your CMakeLists: (I already added this on default)
-```c++
+```cmake
   target_link_libraries(Example PRIVATE winmm)
 ```
 
