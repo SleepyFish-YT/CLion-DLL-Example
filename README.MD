@@ -4,7 +4,7 @@ This is a free to use CLion DLL Example.
 Use it for litterly anything but give credits.
 
 ## Setting up
-![settingUp](https://ibb.co/jWSZ8b9][img]https://i.ibb.co/X3qkWjf/Screenshot-2024-03-21-163141.png)
+![settingUp](https://i.ibb.co/X3qkWjf/Screenshot-2024-03-21-163141.png)
 
 ## Useage examples
 - Legit JNI clients for any types of games
