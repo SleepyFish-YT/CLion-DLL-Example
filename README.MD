@@ -27,3 +27,6 @@ Use it for litterly anything but give credits.
 - CLion project files are smaller
 
 ###### Im a IntelliJ Kid
+
+# Discord Server:
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
