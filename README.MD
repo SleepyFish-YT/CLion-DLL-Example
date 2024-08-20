@@ -26,7 +26,7 @@ Use it for litterly anything but give credits.
 - CLion has a better Package manager
 - CLion project files are smaller
 
-###### Im a IntelliJ Kid
+###### Im a JetBrains kid
 
 # Discord Server:
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
