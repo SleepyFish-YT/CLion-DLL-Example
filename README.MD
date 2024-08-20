@@ -19,8 +19,8 @@ Use it for litterly anything but give credits.
 - Don't use `std::string random;` and instead use `char* random;`
 
 ### Why CLion and not Visual Studio ?
-- CLion is for rich kids
-- CLion looks better
+- CLion is better organized, looks organized
+- CLion looks better when you come from IntelliJ
 - CLion has refactors that actually work
 - CLion has better functionalities
 - CLion has a better Package manager
