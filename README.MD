@@ -17,9 +17,10 @@ Use it for litterly anything but give credits.
   ```cmake
   target_link_libraries(Example PRIVATE winmm)
 
-### If you're not using Visual Studio Toolchain read this !
+### If You're Not Using the Visual Studio Toolchain
+Using GCC/MinGW toolchains on Windows might limit support for certain C++ standard library features. These adjustments ensure compatibility.
 - You can not use `std::cout << "Random text \n";` instead use `printf("Random text \n");`
-- Don't use `std::string random;` and instead use `char* random;`
+- Using Strings: Avoid using `std::string random;`. Instead, opt for: `char* random;`
 
 ### Why Choose CLion Over Visual Studio?
 - Although Visual Studio is popular, here are several reasons to consider CLion:
