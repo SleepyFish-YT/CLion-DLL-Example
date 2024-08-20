@@ -7,24 +7,27 @@ Use it for litterly anything but give credits.
 ![settingUp](https://i.imgur.com/3QTid34.png)
 
 ### Additional Information
-- Change the toolchain to Visual Studio to work. If your not doing so you are unable to use any std:: functions.
-- If you don't know how to find mappings use this website: [Mappings](https://mcp.thiakil.com) make sure to apply the right mappings (in this project used: `stable_22`)
-- If you want to use stuff like PlaySoundA then add this to your CMakeLists: (I already added this on default)
-```cmake
+- **Toolchain Configuration**: Ensure your toolchain is set to Visual Studio. Without this, many standard library functions will not function as expected.
+- **Mappings**:  
+  If your project involves games like Minecraft, where mappings are necessary, use [MCP Mapping Viewer](https://mcp.thiakil.com). This project uses the `stable_22` mappings. Make sure to apply the correct mappings for your specific use case to avoid errors.
+  *What are mappings?*  
+  Mappings translate obfuscated code or names (common in modding or reverse engineering) back into human-readable names. Applying the correct mappings helps you understand and modify the code more easily.
+- **Using Windows-Specific Libraries**:  
+  If you want to use Windows API functions like `PlaySoundA`, ensure your `CMakeLists.txt` includes the following line:
+  ```cmake
   target_link_libraries(Example PRIVATE winmm)
-```
 
 ### If you're not using Visual Studio Toolchain read this !
 - You can not use `std::cout << "Random text \n";` instead use `printf("Random text \n");`
 - Don't use `std::string random;` and instead use `char* random;`
 
-### Why CLion and not Visual Studio ?
-- CLion is better organized, looks organized
-- CLion looks better when you come from IntelliJ
-- CLion has refactors that actually work
-- CLion has better functionalities
-- CLion has a better Package manager
-- CLion project files are smaller
+### Why Choose CLion Over Visual Studio?
+- Although Visual Studio is popular, here are several reasons to consider CLion:
+- Better Organization: CLion's project structure and interface are more intuitive, especially if you're familiar with other JetBrains products like IntelliJ IDEA.
+- Superior Refactoring: CLion's refactoring tools are reliable and user-friendly, which is essential for maintaining clean code.
+- Enhanced Functionality: CLion offers advanced coding tools, better CMake integration, and features like code analysis and navigation.
+- Robust Package Management: CLion simplifies dependency management with a powerful package manager.
+- Smaller Project Files: CLion’s project files are typically smaller and more manageable than those created by Visual Studio.
 
 ###### Im a JetBrains kid
 
