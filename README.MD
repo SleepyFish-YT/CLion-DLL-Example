@@ -36,7 +36,7 @@ Using GCC/MinGW toolchains on Windows might limit support for certain C++ standa
 
 To get started with this project, you'll need to have the following installed:
 
-- [Clion](https://www.jetbrains.com/clion/)
+- [CLion](https://www.jetbrains.com/clion/)
 - [Visual Studio 2022 for the Toolchain](https://visualstudio.microsoft.com/de/vs/community/)
 
 ### On the Visual Studio 2022 Installation u need to choose Following individual installations
