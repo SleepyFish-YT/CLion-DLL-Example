@@ -33,8 +33,8 @@ Using GCC/MinGW toolchains on Windows might limit support for certain C++ standa
 - Enhanced Functionality: CLion offers advanced coding tools, better CMake integration, and features like code analysis and navigation.
 - Robust Package Management: CLion simplifies dependency management with a powerful package manager.
 - Smaller Project Files: CLion’s project files are typically smaller and more manageable than those created by Visual Studio.
-
-###### Im a JetBrains kid
+- CLion adds your created files to your `CMakeLists.txt` automatically, so you dont have to.
+###### Im a JetBrains kid but still clion is better even if i would'nt be
 
 ## Getting Started
 
