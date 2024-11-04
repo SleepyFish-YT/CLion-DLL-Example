@@ -34,7 +34,7 @@ Using GCC/MinGW toolchains on Windows might limit support for certain C++ standa
 - Robust Package Management: CLion simplifies dependency management with a powerful package manager.
 - Smaller Project Files: CLion’s project files are typically smaller and more manageable than those created by Visual Studio.
 - CLion adds your created files to your `CMakeLists.txt` automatically, so you dont have to.
-###### Im a JetBrains kid but still clion is better even if i would'nt be
+###### Im a JetBrains kid but still clion is better even if i would not be!
 
 ## Getting Started
 
