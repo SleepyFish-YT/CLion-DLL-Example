@@ -3,6 +3,10 @@
 This is a free to use CLion DLL Example.
 Use it for litterly anything but give credits.
 
+### Examples how to use it
+- You can use that repo to learn making .dll's
+- You can learn something about CMake
+
 ### Use Visual Studio Toolchain
 ![settingUp](https://i.imgur.com/3QTid34.png)
 
