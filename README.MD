@@ -59,5 +59,8 @@ Then go in the settings and add a new `Toolchain > Build, Execution, Deployment`
 `Visual Studio` and select your installation path. Then right under `Toolchains` is "CMake" and click twice on the `+` until `Debug` and `Release`
 shows up. Click on `Release` and make sure the `Toolchain` is selected to `Visual Studio`.
 
-# Discord Server:
+## Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
+
+###### Signed by SleepyFish.
+
